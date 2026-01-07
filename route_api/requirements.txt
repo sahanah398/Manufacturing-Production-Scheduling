@@ -1,9 +1,0 @@
-# Flask web framework for building REST API
-Flask==2.3.3
-
-# PyJWT for JWT token generation and validation
-PyJWT==2.8.0
-
-# pyodbc for connecting to SQL database
-pyodbc==5.0.1
-
